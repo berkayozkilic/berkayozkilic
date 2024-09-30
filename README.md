@@ -5,7 +5,7 @@
 ## 💬 Social Media & Contact with Me
 <p align="center">
  <a target="_blank" href="https://www.linkedin.com/in/kazimberkayozkilic/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a target="_blank" href="mailto:berkayozkilic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a target="_blank" href="mailto:kazimberkayozkilic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 </br>
