@@ -1,6 +1,6 @@
 ## Hi there👋  I'm Kazım Berkay Özkılıç
 
-🔭I’m currently working on Junior Full Stack Developer</br></br>👩‍💻 I’m currently learning C#, Javascript, Html, Css, SQL </br></br>⚡ I like to learn something new every day.</br></br>
+🔭I’m currently working on Full Stack Developer</br></br>👩‍💻 I’m currently learning C#, Javascript, Html, Css, SQL, Angular, .Net Core, TypeScript </br></br>⚡ I like to learn something new every day.</br></br>
 
 ## 💬 Social Media & Contact with Me
 <p align="center">
