@@ -1,8 +1,8 @@
-## Hi there👋  I'm Kazım Berkay Özkılıç
+##      Hi there👋  I'm Kazım Berkay Özkılıç
 
 🔭I’m currently working on Full Stack Developer</br></br>👩‍💻 I’m currently learning C#, Javascript, Html, Css, SQL, Angular, .Net Core, TypeScript </br></br>⚡ I like to learn something new every day.</br></br>
 
-## 💬 Social Media & Contact with Me
+## 💬  Social Media & Contact with Me
 <p align="center">
  <a target="_blank" href="https://www.linkedin.com/in/kazimberkayozkilic/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a target="_blank" href="mailto:kazimberkayozkilic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
