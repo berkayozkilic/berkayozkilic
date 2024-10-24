@@ -1,5 +1,5 @@
 <div align="center">
-##      Hi there👋  I'm Kazım Berkay Özkılıç
+        Hi there👋  I'm Kazım Berkay Özkılıç
 
 🔭I’m currently working on Full Stack Developer</br></br>👩‍💻 I’m currently learning C#, Javascript, Html, Css, SQL, Angular, .Net Core, TypeScript </br></br>⚡ I like to learn something new every day.</br></br>
 
