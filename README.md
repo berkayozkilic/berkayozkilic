@@ -27,7 +27,7 @@
 
 |C#|SQL|Github|Angular
 |:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="[https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w2MXowNWtidzRpNHZhbGprMW1hOWFjYTJ4NXRhbjNpY2c4NXp5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIHHp3i8bVoEdxd7/giphy.gif)">|
+|<img style="width: 100px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/622ca052071761.59034e74abb36.gif">|<img style="width: 100px" src="https://media1.giphy.com/media/EK5nB6wQKKN86j7GWx/giphy.gif?cid=790b76113fd65a9386daf6b2bd86487884627fdfdf1a597a&rid=giphy.gif&ct=s">|<img style="width: 100px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 100px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2w2MXowNWtidzRpNHZhbGprMW1hOWFjYTJ4NXRhbjNpY2c4NXp5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDIHHp3i8bVoEdxd7/giphy.gif">|
 </br>
 </div>
 
