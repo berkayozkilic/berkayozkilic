@@ -23,7 +23,7 @@
 
 |Html|Css|Javascript|Tyepscript
 |:-:|:-:|:-:|:-:|
-|<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="[https://tenor.com/tr/view/typehero-typescript-any-gif-15538404798500788614](https://media1.tenor.com/m/16OA1pbdWYYAAAAd/typehero-typescript.gif)">|
+|<img style="width: 100px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 100px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif">|<img style="width: 100px" src="https://media1.tenor.com/m/16OA1pbdWYYAAAAd/typehero-typescript.gif">|
 
 |C#|SQL|Github|Angular
 |:-:|:-:|:-:|:-:|
